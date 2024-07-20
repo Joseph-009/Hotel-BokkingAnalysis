@@ -1,10 +1,10 @@
 # Project Scenario
 
-I am a junior data analyst working for a hotel chain. My manager, Audio Queen, has assigned me the task of analyzing the hotel booking data to optimize revenue and customer retention strategies. The dataset includes information such as booking cancellations, lead times, guest demographics, and booking patterns across different market segments and distribution channels.
+I am a junior data analyst at a hotel chain and I have been tasked by my manager, Mona Queen, to analyze hotel booking data for purposes of optimizing revenue and customer retention strategies. The data set consists of very rich booking information where we are able to see a variety of patterns including booking cancellations, lead times, guest demographics, booking patterns across different market segments and distribution channels. 
 
 # Task
 
-My objective is to analyze the hotel booking data to understand customer behavior and identify strategies to reduce cancellations and increase direct bookings. Focus on identifying trends in booking patterns, the impact of lead times on cancellations, and the effectiveness of different marketing strategies in attracting repeat guests.
+I want to get through the data on reservations of hotel rooms to understand better customer behavior and know how cancellations could be reduced and direct bookings improved. Second, I shall work on booking patterns and the impact of the date of booking on the rate of cancellation, and marketing strategies ranked on effectiveness for bringing back customers.
 ___
 --  Counting Total Bookings:
 ```sql
